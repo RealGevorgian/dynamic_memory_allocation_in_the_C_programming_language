@@ -179,5 +179,5 @@ All dynamically allocated memory is properly freed to prevent leaks. Each progra
 
 ## Appendix
 
-Screenshots from the **output screenshots/** directory are included to demonstrate successful program execution. Additionally, a detailed PDF report with explanations, observations, and captured outputs accompanies this repository for submission.
+Screenshots from the **output screenshots/** directory are included to demonstrate successful program execution.
 
