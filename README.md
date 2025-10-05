@@ -16,7 +16,7 @@ This repository contains my solutions for Homework 5, focusing on **dynamic memo
 ```
 dynamic_memory_allocation_in_the_C_programming_language/
 │
-├── src/                    # Source code files
+├── src/                   # Source code files
 │   ├── task1.c            # Task 1: Dynamic Integer Array
 │   ├── task2.c            # Task 2: Initialized Array with Average
 │   ├── task3.c            # Task 3: Resizing Array with realloc
@@ -25,7 +25,7 @@ dynamic_memory_allocation_in_the_C_programming_language/
 │   ├── task6.c            # (Optional) Task 6: Custom realloc
 │   ├── task7.c            # (Optional) Task 7: Aligned Memory
 │
-├── output screenshots/     # Screenshots and output logs
+├── output screenshots/    # Screenshots and output logs
 │   ├── task1_output.png   # Screenshot for Task 1
 │   ├── task2_output.png   # Screenshot for Task 2
 │   ├── task3_output.png   # Screenshot for Task 3
@@ -34,7 +34,7 @@ dynamic_memory_allocation_in_the_C_programming_language/
 │   ├── task6_output.png   # (Optional) Screenshot for Task 6
 │   ├── task7_output.png   # (Optional) Screenshot for Task 7
 │
-├── README.md               # Project overview and instructions
+├── README.md              # Project overview and instructions
 ```
 
 ---
